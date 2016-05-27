@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Sudoku\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_activity2.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Sudoku\\app\\src\\main\\res\\layout\\activity_main_activity2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Sudoku\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Sudoku\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Sudoku\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_second.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Sudoku\\app\\src\\main\\res\\layout\\activity_second.xml"
+    }
+]

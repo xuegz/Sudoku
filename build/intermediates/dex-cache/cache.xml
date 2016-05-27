@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Users\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Administrator\Desktop\Sudoku\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_80956142f3402179ca97a48a3d0fbcb53a3fda97.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\Sudoku\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="afbd9f138358562f99de332ade63aeec7f428bb6">
+        <dex dex="C:\Users\Administrator\Desktop\Sudoku\app\build\intermediates\pre-dexed\debug\instant-run_71778b36465a97ef4195172cbeab7816807aba65.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\Desktop\Sudoku\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="16693e07d603d63bbe79c54b501657d7e8dc9cc3">
+        <dex dex="C:\Users\Administrator\Desktop\Sudoku\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_da192a8543704167ecb13829503e50fb1811b24d.jar" />
+    </item>
+
+</items>

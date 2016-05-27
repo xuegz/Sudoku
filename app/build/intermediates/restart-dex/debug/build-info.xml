@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86,armeabi-v7a"
+    api-level="19"
+    format="7"
+    timestamp="6822331657881" >
+
+    <task
+        name="javac"
+        duration="787" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="373" />
+    <task
+        name="verifier"
+        duration="36" />
+
+    <artifact
+        location="C:\Users\Administrator\Desktop\Sudoku\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="6822331657881" >
+        <artifact
+            location="C:\Users\Administrator\Desktop\Sudoku\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
